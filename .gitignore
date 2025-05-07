@@ -9,7 +9,7 @@ __pycache__/
 *.pyc
 
 # data and artefacts
-data/
+data/raw/
 models/
 tests/fixtures/
 
